@@ -34,6 +34,9 @@ public class FlagFactory {
         case HUNGARIAN:
             result = Arrays.asList(Color.RED, Color.WHITE, Color.GREEN);
             break;
+        case BULGARION:
+            result = Arrays.asList(Color.RED, Color.WHITE, Color.GREEN);
+            break;
         case BULGARIAN:
             result = Arrays.asList(Color.WHITE, Color.GREEN, Color.RED);
             break;
